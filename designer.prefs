@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Designer Properties</comment>
+<entry key="preview.locale">en</entry>
+<entry key="vision.grid.size">10</entry>
+<entry key="vision.guide.visible">true</entry>
+<entry key="vision.guide.snap">true</entry>
+<entry key="most-recent-workspace">windows</entry>
+<entry key="propFilter">ALL</entry>
+</properties>
